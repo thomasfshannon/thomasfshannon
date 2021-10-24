@@ -1,5 +1,5 @@
 <div align="center">
-<img height = "100px" src="/images/space.jpg" alt="cover" />
+<img width="100%" height = "100px" src="/images/space.jpg" alt="cover" />
 </div>
 <span>Photo by <a href="https://unsplash.com/@vincentiu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vincentiu Solomon</a> on <a href="https://unsplash.com/s/photos/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </span>
