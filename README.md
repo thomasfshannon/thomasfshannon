@@ -1,4 +1,5 @@
-<div style="height: 100px; background-image: url(/images/space.jpg); background-size: cover; background-repeat: no-repeat;">
+<div align="center">
+<img width="100%" height = "250px" src="/images/space_heading.jpg" alt="cover" />
 </div>
 <span>Photo by <a href="https://unsplash.com/@vincentiu?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Vincentiu Solomon</a> on <a href="https://unsplash.com/s/photos/space?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 </span>
